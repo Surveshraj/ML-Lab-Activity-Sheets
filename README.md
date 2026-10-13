@@ -1,0 +1,25 @@
+**MACHINE LEARNING (23CSE301)**
+
+**NAME: S. Survesh Raj**
+
+**ROLL NO: CH.SC.U4CSE24258**
+
+**CLASS: 3RD YEAR - CSE-C**
+
+**MACHINE LEARNING LAB EXPERIMENTS**
+
+**1. LINEAR REGRESSION (5th exercise)**
+
+**2. REGRESSION (6th exercise)**
+
+**3. DECISION TREE CLASSIFIERS (7th exercise)**
+
+**4. SUPPORT VECTOR MACHINES (8th exercise)**
+
+**5. K-NEAREST NEIGHBOURS (9th exercise)**
+
+**6. K-MEANS CLUSTERING (10th exercise)**
+
+**7. PRINCIPAL COMPONENT ANALYSIS (11th exercise)**
+
+**8. RANDOM FORESTS (12th exercise)**
